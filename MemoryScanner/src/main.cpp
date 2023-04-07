@@ -2,8 +2,6 @@
 #include "proc.h"
 #include "common.h"
 #include "mem.h"
-#include "skins.h"
-
 
 int main()
 {
