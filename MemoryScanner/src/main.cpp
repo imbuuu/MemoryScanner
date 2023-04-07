@@ -10,9 +10,9 @@ int main()
 
 	do
 	{
-		std::cout << "Enter the skin id you want to change: ";
+		std::cout << "Enter the value you want to scan: ";
 		std::cin >> valueToScan;
-		std::cout << "Enter the number you want to change: ";
+		std::cout << "Enter the new value you want: ";
 		std::cin >> valueToChange;
 
 
