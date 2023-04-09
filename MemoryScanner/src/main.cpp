@@ -12,7 +12,7 @@ int main()
 	{
 		std::cout << "Enter the value you want to scan: ";
 		std::cin >> valueToScan;
-		std::cout << "Enter the new value: ";
+		std::cout << "Enter the new value to overwrite: ";
 		std::cin >> valueToChange;
 
 
